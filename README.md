@@ -23,9 +23,9 @@ It is created in localhost after the test is complete(allure report)
 ## Project Detail
 
 
--  The browser can be selected by changing the "browser" variable of the [app.properties](/master/src/test/resources/app.properties) file.
+-  The browser can be selected by changing the "browser" variable of the [app.properties](https://github.com/erdioran/erdioran_case/blob/main/src/test/resources/app.properties) file.
 
--  For test url selection, change testEnv parameters in [app.properties](/master/src/test/resources/app.properties) file.
+-  For test url selection, change testEnv parameters in [app.properties](https://github.com/erdioran/erdioran_case/blob/main/src/test/resources/app.propertiess) file.
 
--  Gets "url" and "test data" from file [data.json](/master/src/test/resources/data.json)
+-  Gets "url" and "test data" from file [data.json](https://github.com/erdioran/erdioran_case/blob/main/src/test/resources/data.json)
 
