@@ -1,0 +1,22 @@
+{
+  "activity": {
+    "main_android": "com.pozitron.hepsiburada",
+    "main_ios": ""
+  },
+  "appUrl": {
+    "hepsiburada_android": "",
+    "hepsiburada_ios": ""
+  },
+  "apk": {
+    "hepsiburada_android": "example.apk",
+    "hepsiburada_ios": "example.ipa"
+  },
+  "lambda": {
+    "userName": "",
+    "accessKey": ""
+  },
+  "userData": {
+    "emailAdmin": "erdi.oran91@gmail.com",
+    "passwordAdmin": "ErdiTest1234"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "CATEGORIES_TOP_MENU_TELEFON_TABLET": {
+    "value": "topMenuItem1",
+    "type": "AccessibilityId"
+  },
+  "SUB_CATEGORIES_CEP_TELEFONLARI": {
+    "value": "insideMenuItem1-1",
+    "type": "AccessibilityId"
+  },
+  "SUB_CATEGORIES_DETAIL_TUM_URUNLER": {
+    "value": "categoryDetailItem1",
+    "type": "AccessibilityId"
+  }
+}
+
+
+

@@ -1,0 +1,9 @@
+{
+  "CATEGORY_LİST_ITEM_1": {
+    "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup[2]/android.widget.GridView/androidx.cardview.widget.CardView[1]",
+    "type": "xpath"
+  }
+}
+
+
+

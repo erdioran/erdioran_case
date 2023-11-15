@@ -1,0 +1,31 @@
+{
+  "PRODUCT_DETAIL_IMAGE": {
+    "value": "com.pozitron.hepsiburada:id/productImage",
+    "type": "id"
+  },
+  "PRODUCT_DETAIL_IMAGE_ZOOM": {
+    "value": "com.pozitron.hepsiburada:id/zoomableImage",
+    "type": "id"
+  },
+  "PRODUCT_DETAIL_IMAGE_CLOSE_BUTTON": {
+    "value": "com.pozitron.hepsiburada:id/leftIcon",
+    "type": "id"
+  },
+  "PRODUCT_DETAIL_SEPETE_EKLE_BUTTON":{
+    "value": "com.pozitron.hepsiburada:id/product_detail_add_to_cart",
+    "type": "id"
+  },
+  "PRODUCT_DETAIL_KARSILASTIRMA_BUTTON":{
+    "value": "com.pozitron.hepsiburada:id/compareIcon",
+    "type": "id"
+  },
+  "PRODUCT_DETAIL_KARSILASTIRMA_POPUP_KARSILASTIR_BUTTON":{
+    "value": "com.pozitron.hepsiburada:id/compareTxt",
+    "type": "id"
+  }
+}
+
+
+
+
+

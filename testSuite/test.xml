@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QCharge Android Test Suite" parallel="tests" data-provider-thread-count="1">
+    <listeners>
+        <listener class-name="com.erdioran.listener.ExecutionListener"/>
+        <listener class-name="com.erdioran.listener.TestListener"/>
+        <listener class-name="com.erdioran.listener.AnnotationTransformer"/>
+    </listeners>
+    <test name="OnePlus8 - v13">
+        <parameter name="deviceName" value="OnePlus 8"/>
+        <parameter name="platformVersion" value="13"/>
+        <parameter name="platformName" value="android"/>
+        <classes>
+            <class name="io.cucumber.skeleton.RunCucumberTest"/>
+        </classes>
+    </test>
+</suite>
+
